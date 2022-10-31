@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-kanka-plugin",
+  "name": "Kanka",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Integrates and displays your Kanka.io account data.",
+  "author": "Dan Strokirk",
+  "authorUrl": "https://obsidian.md",
+  "isDesktopOnly": false
+}
